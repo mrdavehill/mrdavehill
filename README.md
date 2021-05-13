@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrdavehill
-- 👀 I’m interested in nework automation
+- 👀 I’m interested in nework and cloud automation
 - 🌱 I’m currently learning Ansible
 - 📫 How to reach me ...
 
