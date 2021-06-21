@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrdavehill
-- 👀 I’m interested in nework and cloud automation
-- 🌱 I’m currently learning Ansible
+- 👀 I work in nework and cloud automation
 - 📫 How to reach me ...
 
 - Dave Hill dave@davehill.org
