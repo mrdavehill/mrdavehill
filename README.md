@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrdavehill
 - 👀 I work in nework and cloud automation
-- 📫 How to reach me ...
 
 - Dave Hill dave@davehill.org
 - https://www.linkedin.com/in/dave-hill-a5a3601b0/
